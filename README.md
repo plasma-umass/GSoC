@@ -1,4 +1,4 @@
-Google Summer of Code 2014
+Google Summer of Code 2015
 ==========================
 
 Welcome to the PLASMA @ UMass Google Summer of Code 2015 repository!
